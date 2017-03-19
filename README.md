@@ -356,6 +356,7 @@ For information on contributing to this project, please see the [contributing gu
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | eBay | Sell and Buy on eBay | `OAuth` | Yes | [Go!](https://go.developer.ebay.com/) |
+| Esty | Sell and Buy on Etsy | `OAuth` | Yes | [Go!](https://www.etsy.com/developers/) |
 
 ### Social
 
